@@ -1,7 +1,0 @@
-store_id,store_name,city,locality,pincode,tier,opening_year,area_sqft,staff_count,manager_name,state
-ST01,DMart Raipur Civil Lines,Raipur,Civil Lines,492001,Tier-1,2019,45000,310,Rajan Mishra,Chhattisgarh
-ST02,DMart Raipur Ring Road,Raipur,Ring Road,492006,Tier-1,2021,38000,265,Priya Sharma,Chhattisgarh
-ST03,DMart Bhilai Katulbod,Bhilai,Katulbod,490020,Tier-1,2017,42000,285,Ajay Verma,Chhattisgarh
-ST04,DMart Bhilai Charoda,Bhilai,Charoda / Bhilai-3,490036,Tier-2,2020,30000,210,Kavita Sahu,Chhattisgarh
-ST05,DMart Durg Katulbod,Durg,Katulbod,491001,Tier-2,2022,27000,188,Deepak Tiwari,Chhattisgarh
-ST06,DMart Rajnandgaon Lakholi,Rajnandgaon,Lakholi,491441,Tier-3,2023,22000,152,Sunita Patel,Chhattisgarh
