@@ -26,7 +26,7 @@ dashboard/P-1 Executive Summary.png
 dashboard/P-2_Store_Analysis.png
 
 ### Page 3 — Product Analysis
-![Product Analysis](dashboard/P-3_Product_Analysis.png)
+![Product Analysis]("dashboard/P-3_Product_Analysis.png")
 
 ### Page 4 — Seasonality Analysis
 ![Seasonality Analysis](dashboard/P-4_Seasonality_Analysis.png)
