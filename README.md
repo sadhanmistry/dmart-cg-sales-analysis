@@ -12,14 +12,15 @@
 
 A complete end-to-end retail analytics project simulating real DMart store operations across **6 locations in Chhattisgarh** for the full financial year **April 2025 – March 2026**.
 
-The project covers the full data pipeline — synthetic data generation, Python-based loading into MySQL, SQL-based analysis with 20 business questions (Basic to Advanced), and a 4-page interactive Power BI dashboard with live slicers.
+The project covers the full data pipeline — synthetic data generation, Python-based loading into MySQL, SQL-based analysis with 20 business questions, and a 4-page interactive Power BI dashboard with live slicers.
 
 ---
 
 ## Dashboard Preview
 
 ### Page 1 — Executive Summary
-![Executive Summary](dashboard/P-1_Executive_Summary.png)
+![Executive Summary]
+(dashboard/P-1_Executive Summary.png)
 
 ### Page 2 — Store Analysis
 ![Store Analysis](dashboard/P-2_Store_Analysis.png)
