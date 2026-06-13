@@ -1,0 +1,206 @@
+product_id,product_name,brand,category,sub_category,mrp,cost_price,gst_pct,unit,selling_price,is_private_label
+P0001,Basmati Rice 5kg,India Gate,Grocery,Rice,649,512,5,bag,594.72,0
+P0002,Non-Basmati Rice 10kg,Kohinoor,Grocery,Rice,449,354,5,bag,403.21,0
+P0003,Sona Masoori Rice 5kg,Local Brand,Grocery,Rice,299,236,5,bag,267.93,0
+P0004,Poha 500g,Patanjali,Grocery,Grains,45,35,5,packet,40.61,0
+P0005,Sabudana 500g,Rajdhani,Grocery,Grains,80,62,5,packet,75.87,0
+P0006,Toor Dal 1kg,Tata Sampann,Grocery,Pulses,148,116,5,packet,133.59,0
+P0007,Chana Dal 1kg,Fortune,Grocery,Pulses,122,96,5,packet,111.57,0
+P0008,Moong Dal 500g,Patanjali,Grocery,Pulses,72,56,5,packet,67.79,0
+P0009,Urad Dal 1kg,24 Mantra,Grocery,Pulses,135,106,5,packet,125.34,0
+P0010,Masoor Dal 1kg,Daawat,Grocery,Pulses,128,101,5,packet,123.45,0
+P0011,Whole Wheat Atta 10kg,Aashirvaad,Grocery,Flour,420,330,5,bag,388.09,0
+P0012,Chakki Fresh Atta 5kg,Rajdhani,Grocery,Flour,210,165,5,bag,192.77,0
+P0013,Maida 1kg,Fortune,Grocery,Flour,50,39,5,packet,46.76,0
+P0014,Besan 1kg,Rajdhani,Grocery,Flour,78,61,5,packet,70.16,0
+P0015,Sooji 500g,MDH,Grocery,Flour,40,31,5,packet,38.45,0
+P0016,Sunflower Oil 5L,Fortune,Grocery,Edible Oil,720,570,5,tin,657.83,0
+P0017,Mustard Oil 1L,Dhara,Grocery,Edible Oil,188,148,5,bottle,172.01,0
+P0018,Groundnut Oil 1L,Patanjali,Grocery,Edible Oil,215,169,5,bottle,202.4,0
+P0019,Soyabean Oil 5L,Gemini,Grocery,Edible Oil,660,520,5,tin,589.85,0
+P0020,Desi Ghee 500ml,Amul,Grocery,Edible Oil,395,311,12,tin,371.08,0
+P0021,Desi Ghee 1L,Patanjali,Grocery,Edible Oil,749,590,12,tin,716.42,0
+P0022,Sugar 5kg,Double Refined,Grocery,Sugar & Salt,235,185,0,bag,213.97,0
+P0023,Powdered Sugar 500g,Local,Grocery,Sugar & Salt,48,37,0,packet,46.33,0
+P0024,Iodised Salt 1kg,Tata,Grocery,Sugar & Salt,26,20,0,packet,24.12,0
+P0025,Rock Salt 1kg,Patanjali,Grocery,Sugar & Salt,35,27,0,packet,33.24,0
+P0026,Jaggery 500g,Patanjali,Grocery,Sugar & Salt,58,45,0,packet,53.49,0
+P0027,Tata Tea Gold 500g,Tata,Grocery,Tea & Coffee,268,211,5,box,245.55,0
+P0028,Brooke Bond Red Label 500g,HUL,Grocery,Tea & Coffee,255,201,5,box,230.58,0
+P0029,Bru Gold Instant Coffee 50g,HUL,Grocery,Tea & Coffee,162,127,18,jar,142.67,0
+P0030,Green Tea 25 bags,Lipton,Grocery,Tea & Coffee,185,145,18,box,166.19,0
+P0031,Horlicks 500g,GSK,Grocery,Health Drinks,288,227,18,jar,279.09,0
+P0032,Boost 500g,GSK,Grocery,Health Drinks,322,254,18,jar,298.84,0
+P0033,Complan 200g,Kraft,Grocery,Health Drinks,168,132,18,box,154.83,0
+P0034,Turmeric Powder 200g,Everest,Grocery,Spices,72,56,5,packet,69.19,0
+P0035,Red Chilli Powder 200g,MDH,Grocery,Spices,85,67,5,packet,79.43,0
+P0036,Coriander Powder 200g,Everest,Grocery,Spices,62,48,5,packet,60.01,0
+P0037,Garam Masala 100g,MDH,Grocery,Spices,95,74,5,packet,86.66,0
+P0038,Kitchen King 100g,MDH,Grocery,Spices,78,61,5,packet,70.16,0
+P0039,Black Pepper 50g,Catch,Grocery,Spices,95,74,5,packet,91.47,0
+P0040,Tomato Puree 200g,Maggi,Grocery,Condiments,55,43,12,packet,49.2,0
+P0041,Soy Sauce 200ml,Ching's,Grocery,Condiments,72,56,12,bottle,68.49,0
+P0042,Vinegar 200ml,Druk,Grocery,Condiments,45,35,5,bottle,42.01,0
+P0043,Honey 500g,Dabur,Grocery,Condiments,248,195,12,bottle,240.18,0
+P0044,Jam Mixed Fruit 500g,Kissan,Grocery,Condiments,145,114,12,bottle,139.92,0
+P0045,Full Cream Milk 1L,Amul,Dairy,Milk,72,57,5,pouch,67.64,0
+P0046,Toned Milk 1L,Amul,Dairy,Milk,58,45,5,pouch,51.23,0
+P0047,Paneer 200g,Amul,Dairy,Paneer,98,77,12,packet,86.45,0
+P0048,Paneer 500g,Mother Dairy,Dairy,Paneer,235,185,12,packet,216.82,0
+P0049,Butter 100g,Amul,Dairy,Butter,60,47,12,packet,57.23,0
+P0050,Butter 500g,Amul,Dairy,Butter,285,225,12,carton,252.88,0
+P0051,Curd 400g,Mother Dairy,Dairy,Curd,52,41,5,cup,47.75,0
+P0052,Greek Yoghurt 150g,Epigamia,Dairy,Curd,75,59,5,cup,66.58,0
+P0053,Cheese Slices 200g,Amul,Dairy,Cheese,120,94,12,packet,108.95,0
+P0054,Mozzarella 200g,Britannia,Dairy,Cheese,145,114,12,packet,127.67,0
+P0055,Eggs 6 pack,Suguna,Dairy,Eggs,75,59,0,tray,68.23,0
+P0056,Eggs 12 pack,Suguna,Dairy,Eggs,145,114,0,tray,134.43,0
+P0057,Maggi 2 Min 70g,Nestle,Snacks,Noodles,14,11,18,packet,12.57,0
+P0058,Maggi 12 pack,Nestle,Snacks,Noodles,155,122,18,carton,147.38,0
+P0059,Top Ramen Masala 70g,Nissin,Snacks,Noodles,12,9,18,packet,10.62,0
+P0060,Yippee Noodles 70g,ITC,Snacks,Noodles,14,11,18,packet,12.59,0
+P0061,Parle-G 250g,Parle,Snacks,Biscuits,30,23,18,packet,27.1,0
+P0062,Marie Gold 250g,Britannia,Snacks,Biscuits,42,33,18,packet,38.49,0
+P0063,Good Day 150g,Britannia,Snacks,Biscuits,40,31,18,packet,37.95,0
+P0064,Oreo 120g,Cadbury,Snacks,Biscuits,68,53,18,packet,62.01,0
+P0065,Monaco 200g,Parle,Snacks,Biscuits,42,33,18,packet,39.59,0
+P0066,Atta Biscuits 300g,Britannia,Snacks,Biscuits,52,41,18,packet,50.08,0
+P0067,Hide & Seek 120g,Parle,Snacks,Biscuits,45,35,18,packet,40.13,0
+P0068,Haldirams Aloo Bhujia 200g,Haldirams,Snacks,Namkeen,98,77,12,packet,93.86,0
+P0069,Haldirams Mixture 200g,Haldirams,Snacks,Namkeen,92,72,12,packet,85.93,0
+P0070,Bikano Chana Dal 150g,Bikano,Snacks,Namkeen,75,59,12,packet,71.04,0
+P0071,Lays Classic 26g,PepsiCo,Snacks,Chips,20,15,18,packet,18.69,0
+P0072,Lays Masala 52g,PepsiCo,Snacks,Chips,30,23,18,packet,27.5,0
+P0073,Kurkure 90g,PepsiCo,Snacks,Chips,30,23,18,packet,26.66,0
+P0074,Bingo Mad Angles 75g,ITC,Snacks,Chips,30,23,18,packet,26.79,0
+P0075,Dairy Milk 30g,Cadbury,Snacks,Chocolates,20,15,28,bar,17.91,0
+P0076,Dairy Milk Silk 60g,Cadbury,Snacks,Chocolates,55,43,28,bar,49.28,0
+P0077,KitKat 37g,Nestle,Snacks,Chocolates,30,23,28,bar,26.79,0
+P0078,5 Star 22g,Cadbury,Snacks,Chocolates,20,15,28,bar,17.97,0
+P0079,Milkybar 25g,Nestle,Snacks,Chocolates,20,15,28,bar,18.61,0
+P0080,Perk 6pack,Cadbury,Snacks,Chocolates,60,47,28,pack,56.96,0
+P0081,Coca-Cola 2L,Coca-Cola,Beverages,Carbonated,95,74,12,bottle,90.42,0
+P0082,Pepsi 2L,PepsiCo,Beverages,Carbonated,90,70,12,bottle,86.05,0
+P0083,Sprite 2L,Coca-Cola,Beverages,Carbonated,90,70,12,bottle,80.15,0
+P0084,Thums Up 2L,Coca-Cola,Beverages,Carbonated,95,74,12,bottle,90.63,0
+P0085,Limca 2L,Coca-Cola,Beverages,Carbonated,88,69,12,bottle,78.91,0
+P0086,Maaza 600ml,Coca-Cola,Beverages,Juices,50,39,12,bottle,44.33,0
+P0087,Frooti 200ml,Parle,Beverages,Juices,20,15,12,packet,18.12,0
+P0088,Real Juice 1L,Dabur,Beverages,Juices,135,106,12,carton,125.92,0
+P0089,Tropicana 1L,PepsiCo,Beverages,Juices,128,101,12,carton,113.19,0
+P0090,Appy Fizz 300ml,Parle,Beverages,Juices,35,27,12,bottle,31.48,0
+P0091,Red Bull 250ml,Red Bull,Beverages,Energy,125,98,28,can,114.49,0
+P0092,Bisleri Water 1L,Bisleri,Beverages,Water,20,15,12,bottle,19.08,0
+P0093,Nimbooz 350ml,PepsiCo,Beverages,Carbonated,30,23,12,bottle,27.48,0
+P0094,Dove Body Wash 200ml,HUL,Personal Care,Bath,165,130,18,bottle,151.35,0
+P0095,Dove Soap 100g,HUL,Personal Care,Bath,60,47,18,bar,54.8,0
+P0096,Lux Soap 75g 4pack,HUL,Personal Care,Bath,145,114,18,pack,128.81,0
+P0097,Lifebuoy Soap 125g,HUL,Personal Care,Bath,40,31,18,bar,38.37,0
+P0098,Dettol Soap 75g,Reckitt,Personal Care,Bath,48,37,18,bar,46.23,0
+P0099,Pears Soap 75g,HUL,Personal Care,Bath,65,51,18,bar,61.42,0
+P0100,Head & Shoulders 340ml,P&G,Personal Care,Hair,348,274,18,bottle,318.72,0
+P0101,Pantene 200ml,P&G,Personal Care,Hair,292,230,18,bottle,268.63,0
+P0102,Clinic Plus 175ml,HUL,Personal Care,Hair,122,96,18,bottle,110.78,0
+P0103,Tresemme 185ml,HUL,Personal Care,Hair,278,219,18,bottle,261.01,0
+P0104,Parachute Coconut Oil 200ml,Marico,Personal Care,Hair,162,127,18,bottle,152.09,0
+P0105,Dove Conditioner 180ml,HUL,Personal Care,Hair,295,232,18,bottle,267.85,0
+P0106,Colgate Total 200g,Colgate,Personal Care,Oral Care,100,78,18,tube,95.87,0
+P0107,Pepsodent 200g,HUL,Personal Care,Oral Care,88,69,18,tube,83.15,0
+P0108,Closeup 150g,HUL,Personal Care,Oral Care,92,72,18,tube,82.77,0
+P0109,Listerine 250ml,J&J,Personal Care,Oral Care,188,148,18,bottle,179.13,0
+P0110,Colgate Brush Medium,Colgate,Personal Care,Oral Care,40,31,18,piece,37.63,0
+P0111,Oral-B Brush,P&G,Personal Care,Oral Care,95,74,18,piece,85.74,0
+P0112,Gillette Fusion 4s,P&G,Personal Care,Shaving,395,311,18,pack,358.14,0
+P0113,Gillette Foam 196g,P&G,Personal Care,Shaving,248,195,18,can,235.01,0
+P0114,Nivea Men Face Wash 100ml,Beiersdorf,Personal Care,Skincare,185,145,18,tube,164.13,0
+P0115,Nivea Cream 200ml,Beiersdorf,Personal Care,Skincare,228,179,18,tin,209.62,0
+P0116,Vaseline Body Lotion 200ml,HUL,Personal Care,Skincare,188,148,18,bottle,181.75,0
+P0117,Himalaya Face Wash 100ml,Himalaya,Personal Care,Skincare,170,134,18,tube,153.52,0
+P0118,Fair & Lovely 50g,HUL,Personal Care,Skincare,98,77,18,tube,90.68,0
+P0119,Lakme CC Cream,HUL,Personal Care,Cosmetics,225,177,18,tube,216.37,0
+P0120,Maybelline Fit Me Foundation,L'Oreal,Personal Care,Cosmetics,520,409,18,bottle,498.53,0
+P0121,Biotique Sunscreen SPF50,Biotique,Personal Care,Skincare,195,153,18,tube,185.43,0
+P0122,Surf Excel 2kg,HUL,Home Care,Laundry,398,313,18,box,369.34,0
+P0123,Ariel 1kg,P&G,Home Care,Laundry,322,254,18,box,310.31,0
+P0124,Rin Detergent 2kg,HUL,Home Care,Laundry,198,156,18,box,178.82,0
+P0125,Tide 1kg,P&G,Home Care,Laundry,185,145,18,box,177.48,0
+P0126,Comfort Fabric Conditioner 800ml,HUL,Home Care,Laundry,225,177,18,bottle,206.29,0
+P0127,Vim Bar 300g,HUL,Home Care,Kitchen Cleaning,38,30,18,bar,35.69,0
+P0128,Vim Dishwash Gel 500ml,HUL,Home Care,Kitchen Cleaning,98,77,18,bottle,91.63,0
+P0129,Pril Dishwash 750ml,Henkel,Home Care,Kitchen Cleaning,158,124,18,bottle,143.05,0
+P0130,Lizol Floor Cleaner 975ml,Reckitt,Home Care,Home Cleaning,195,153,18,bottle,183.5,0
+P0131,Harpic Toilet Cleaner 500ml,Reckitt,Home Care,Home Cleaning,148,116,18,bottle,138.29,0
+P0132,Colin Glass Cleaner 500ml,Reckitt,Home Care,Home Cleaning,145,114,18,bottle,140.48,0
+P0133,Domex Toilet Cleaner 500ml,HUL,Home Care,Home Cleaning,88,69,18,bottle,82.72,0
+P0134,Scotch-Brite Scrub 3pack,3M,Home Care,Home Cleaning,98,77,18,pack,90.12,0
+P0135,Good Knight Liquid 45ml,Godrej,Home Care,Repellents,98,77,18,bottle,89.59,0
+P0136,All Out Mosquito Liquid,SC Johnson,Home Care,Repellents,135,106,18,bottle,129.58,0
+P0137,Odomos Cream 50g,Dabur,Home Care,Repellents,88,69,18,tube,80.18,0
+P0138,Ambi Pur Air Freshener 275ml,P&G,Home Care,Air Care,248,195,18,can,233.13,0
+P0139,Odonil Block 50g 2pack,Dabur,Home Care,Air Care,78,61,18,pack,73.51,0
+P0140,Pampers Small 46count,P&G,Baby Care,Diapers,598,471,12,pack,578.16,0
+P0141,Pampers Medium 52count,P&G,Baby Care,Diapers,898,708,12,pack,805.86,0
+P0142,Huggies Large 44count,Kimberly-Clark,Baby Care,Diapers,855,674,12,pack,803.57,0
+P0143,Mamy Poko Pants M 54count,Unicharm,Baby Care,Diapers,785,619,12,pack,702.93,0
+P0144,Cerelac Wheat 300g,Nestle,Baby Care,Baby Food,285,225,5,tin,267.22,0
+P0145,NAN Pro Stage1 400g,Nestle,Baby Care,Baby Food,650,512,5,tin,610.44,0
+P0146,Johnson Baby Powder 200g,J&J,Baby Care,Baby Skin,198,156,18,bottle,187.48,0
+P0147,Johnson Baby Oil 200ml,J&J,Baby Care,Baby Skin,228,179,18,bottle,218.42,0
+P0148,Johnson Baby Shampoo 200ml,J&J,Baby Care,Baby Skin,195,153,18,bottle,175.66,0
+P0149,Dettol Handwash 200ml,Reckitt,Health & Hygiene,Hygiene,95,74,18,bottle,90.96,0
+P0150,Lifebuoy Handwash 190ml,HUL,Health & Hygiene,Hygiene,85,67,18,bottle,77.44,0
+P0151,Savlon Handwash 200ml,ITC,Health & Hygiene,Hygiene,92,72,18,bottle,84.27,0
+P0152,Dettol Antiseptic 100ml,Reckitt,Health & Hygiene,First Aid,85,67,18,bottle,75.66,0
+P0153,Band Aid 10s,J&J,Health & Hygiene,First Aid,65,51,12,box,60.31,0
+P0154,Volini Spray 50ml,Sanofi,Health & Hygiene,Pain Relief,188,148,12,bottle,165.46,0
+P0155,Moov Cream 50g,Reckitt,Health & Hygiene,Pain Relief,145,114,12,tube,131.65,0
+P0156,Dabur Chyawanprash 500g,Dabur,Health & Hygiene,Supplements,285,225,5,jar,268.04,0
+P0157,Himalaya Liv 52 100tabs,Himalaya,Health & Hygiene,Supplements,175,138,12,bottle,165.77,0
+P0158,Ensure Nutrition 400g,Abbott,Health & Hygiene,Supplements,698,550,18,tin,624.75,0
+P0159,Hawkins Pressure Cooker 3L,Hawkins,Home & Kitchen,Cookware,1295,1020,12,piece,1231.08,0
+P0160,Prestige Pressure Cooker 5L,TTK Prestige,Home & Kitchen,Cookware,1895,1494,12,piece,1743.34,0
+P0161,Non-Stick Tawa 28cm,Hawkins,Home & Kitchen,Cookware,898,708,12,piece,806.83,0
+P0162,Steel Kadai 1.5L,Vinod,Home & Kitchen,Cookware,648,511,12,piece,613.9,0
+P0163,Serving Spoon Set 5pc,Steelex,Home & Kitchen,Cookware,198,156,18,set,187.41,0
+P0164,Steel Tiffin 3pc,Milton,Home & Kitchen,Storage,495,390,18,set,456.45,0
+P0165,Water Bottle 1L,Cello,Home & Kitchen,Storage,198,156,18,piece,183.7,0
+P0166,Casserole Set 2pc,Nayasa,Home & Kitchen,Storage,598,471,18,set,559.6,0
+P0167,Storage Container 4pc,Tupperware,Home & Kitchen,Storage,648,511,18,set,607.08,0
+P0168,Hanger 12pc Set,Local,Home & Kitchen,Storage,78,61,18,set,74.01,0
+P0169,Broom Phool Jhadu,Local,Home & Kitchen,Cleaning Tools,88,69,0,piece,83.53,0
+P0170,Mop Set with Bucket,Scotch-Brite,Home & Kitchen,Cleaning Tools,598,471,18,set,537.02,0
+P0171,Men Regular Fit Shirt,D-Mart Basics,Apparel,Men's Top,499,393,12,piece,440.05,1
+P0172,Men Slim Fit Jeans,D-Mart Basics,Apparel,Men's Bottom,699,551,12,piece,621.74,1
+P0173,Men Round Neck T-Shirt,D-Mart Basics,Apparel,Men's Top,299,235,12,piece,271.39,1
+P0174,Men Track Pant,D-Mart Active,Apparel,Men's Bottom,399,314,12,piece,371.97,1
+P0175,Men Formal Trousers,D-Mart Basics,Apparel,Men's Bottom,799,630,12,piece,772.24,1
+P0176,Men Innerwear Vest 2pc,VIP,Apparel,Men's Inner,199,156,12,pack,182.58,0
+P0177,Men Boxer 2pc,Dollar,Apparel,Men's Inner,249,196,12,pack,227.39,0
+P0178,Men's Socks 3pair,D-Mart Basics,Apparel,Men's Inner,149,117,12,pack,138.59,1
+P0179,Women Kurti,D-Mart Basics,Apparel,Women's Ethnic,549,433,12,piece,529.98,1
+P0180,Women Salwar Set,D-Mart Basics,Apparel,Women's Ethnic,799,630,12,set,745.4,1
+P0181,Women Leggings,D-Mart Active,Apparel,Women's Bottom,349,275,12,piece,316.39,1
+P0182,Women T-Shirt,D-Mart Basics,Apparel,Women's Top,299,235,12,piece,283.48,1
+P0183,Women Innerwear Set 2pc,Enamor,Apparel,Women's Inner,399,314,12,pack,386.74,0
+P0184,Women Nightwear Set,D-Mart Basics,Apparel,Women's Night,449,354,12,set,427.19,1
+P0185,Kids T-Shirt 2-14yr,D-Mart Kids,Apparel,Kids' Top,249,196,12,piece,228.05,1
+P0186,Kids Jeans 2-14yr,D-Mart Kids,Apparel,Kids' Bottom,349,275,12,piece,312.53,1
+P0187,Kids Track Suit,D-Mart Kids,Apparel,Kids' Set,449,354,12,set,413.74,1
+P0188,School Uniform Shirt,D-Mart Kids,Apparel,Kids' Uniform,299,235,12,piece,266.58,1
+P0189,Men's Slippers,Paragon,Footwear,Men,299,235,12,pair,266.64,0
+P0190,Men's Casual Shoes,Bata,Footwear,Men,799,630,12,pair,735.23,0
+P0191,Women's Slippers,Paragon,Footwear,Women,249,196,12,pair,238.17,0
+P0192,Women's Sandals,Bata,Footwear,Women,549,433,12,pair,517.8,0
+P0193,Kids Shoes,Bata,Footwear,Kids,499,393,12,pair,457.9,0
+P0194,Classmate Notebook 200pg,ITC,Stationery,Notebooks,95,74,12,piece,91.76,0
+P0195,Spiral Notebook A4,D-Mart Basics,Stationery,Notebooks,68,53,12,piece,60.93,1
+P0196,Cello Ball Pen 10pc,Cello,Stationery,Pens,58,45,18,pack,52.35,0
+P0197,Camlin Geometry Box,Camlin,Stationery,School,125,98,12,piece,113.08,0
+P0198,Faber Castell Pencils 10pc,Faber Castell,Stationery,School,68,53,12,pack,63.34,0
+P0199,Scotch Tape 24mm,3M,Stationery,Office,55,43,18,roll,52.8,0
+P0200,Duracell AA Batteries 4pk,Duracell,Electronics,Batteries,195,153,18,pack,178.32,0
+P0201,Eveready Batteries 4pk,Eveready,Electronics,Batteries,88,69,18,pack,83.99,0
+P0202,USB Charging Cable 1m,D-Mart Basics,Electronics,Accessories,199,156,18,piece,191.9,1
+P0203,Power Strip 4-socket,D-Mart Basics,Electronics,Accessories,395,311,18,piece,364.63,1
+P0204,LED Bulb 9W,Philips,Electronics,Lighting,195,153,18,piece,187.27,0
+P0205,LED Bulb 12W,Havells,Electronics,Lighting,245,193,18,piece,235.21,0
