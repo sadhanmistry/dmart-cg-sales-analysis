@@ -108,22 +108,11 @@ dim_products    ←──┤── fact_sale_items ──→ fact_sales ──�
 
 ---
 
-## SQL Analysis — 20 Business Questions
-
-| Level | Questions | Concepts |
-|---|---|---|
-| Basic (Q01–Q05) | KPI summary, store revenue, payment split, category revenue, weekend vs weekday | SELECT, GROUP BY, ORDER BY, ROUND, CASE WHEN |
-| Intermediate (Q06–Q10) | Monthly trend, store vs avg, margin by category, festival revenue, top 10 products | JOINs, HAVING, DATE_FORMAT, Subqueries, NULLIF |
-| Advanced (Q11–Q15) | MoM growth, cumulative revenue, quarterly ranking, ABC classification, top product per store | CTEs, LAG, RANK, DENSE_RANK, SUM OVER, PARTITION BY |
-| Expert (Q16–Q20) | Full store scorecard, payment pivot, high-value bills, Diwali uplift, day-of-week running total | Multi-CTE, NTILE, Conditional aggregation, Ratio calculation, Running totals |
-
----
-
 ## How to Run
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/dmart-cg-sales-analysis.git
+git clone https://github.com/sadhanmistry/dmart-cg-sales-analysis.git
 cd dmart-cg-sales-analysis
 ```
 
@@ -181,8 +170,8 @@ Open `sql/dmart_analysis.sql` in MySQL Workbench and execute:
 **Sadhan Mistry**
 Data Analyst | Python · MySQL · Power BI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sadhanmistry/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/sadhanmistry)
 
 ---
 
