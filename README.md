@@ -23,7 +23,7 @@ The project covers the full data pipeline — synthetic data generation, Python-
 dashboard/P-1 Executive Summary.png
 
 ### Page 2 — Store Analysis
-[]("dashboard/P-2_Store_Analysis.png")
+[](dashboard/P-2_Store_Analysis.png)
 
 ### Page 3 — Product Analysis
 ![Product Analysis]("dashboard/P-3_Product_Analysis.png")
