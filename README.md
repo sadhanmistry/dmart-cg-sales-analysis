@@ -165,6 +165,15 @@ Open `sql/dmart_analysis.sql` in MySQL Workbench and execute:
 
 ---
 
+## Note: 
+fact_sales.csv & fact_sale_items.csv are 75 MB & 493 MB. GitHub has a 25MB file limit. 
+" fact_sales.csv & fact_sale_items.csv is available at 
+fact_sales:- [Google Drive link]:- https://drive.google.com/file/d/11TTjJiwB1TjDDSend_geSlSHHB0qpSVC/view?usp=drive_link
+fact_sale_items:- [Google Drive link]:- https://drive.google.com/file/d/11tlX273LAvXyjhuTmwMFNbBDNxP4UDZn/view?usp=drive_link
+due to GitHub 25MB file size limit."
+
+---
+
 ## Author
 
 **Sadhan Mistry**
