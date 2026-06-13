@@ -2,6 +2,11 @@
 ### FY 2025-26 | End-to-End Data Analytics Project
 
 [![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/links/a4c6PZvtWd?ctid=b8437072-63f3-4313-bdcf-374815276305&pbi_source=linkShare)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Loading-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
+[![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/links/a4c6PZvtWd?ctid=b8437072-63f3-4313-bdcf-374815276305&pbi_source=linkShare)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](/)
 [![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Loading-150458?style=for-the-badge&logo=pandas&logoColor=white)](/)
